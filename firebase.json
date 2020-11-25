@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "spendon",
     "public": "build/",
     "ignore": [
       "firebase.json",
